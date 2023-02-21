@@ -1,0 +1,18 @@
+info{
+    display:flex;
+    justify-content: space-between;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+td{
+   text-align: center ;
+}
+#footer{
+    text-align:end;  
+}
+header{
+    font-size: xx-large;
+    
+}

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet"href="style.css">
+    <style>
+        img{
+            width: 250px;
+            height:250px;
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body>
+    <header><center>RESUME</center></header>
+    <div id="info">
+         <div id="img">
+             <img src="https://i.pinimg.com/originals/fb/25/ac/fb25ac2832194c7494ef28bd5e33d9eb.jpg">
+        </div>
+        <div >
+           <h2>SUBHASINI</h2>
+           <a href="mailto:subha@gmail.com">subha@gmail.com</a>
+           <h2>3459876123</h2>
+        </div>
+      
+    </div>
+    <hr>
+    <table border="3">
+        <tr>
+            <th>DEGREE</th>
+            <th>COLLEGE NAME</th>
+            <th>%</th>
+        </tr>
+        <tr>
+            <td>BSC</td>
+            <td>SIGC</td>
+            <td>90%</td>
+        </tr>
+        <tr>
+            <td>MSC</td>
+            <td>SIGC</td>
+            <td>95%</td>
+        </tr>
+    </table>
+    <h3>SKILLS</h3>
+    <ul>
+        <li>APP DEVELPOER</li>
+        <li>COMMUNICATION SKILL</li>
+        <li>CODING</li>
+    </ul>
+    <h3>HOBBIES</h3>
+    <ul>
+        <li>DESIGNING</li>
+        <li>DRAWING</li>
+    </ul>
+    <h3>EXPERIENCE</h3>
+    <ul>
+        <li>2 YEARS</li>
+    </ul>
+    <hr>
+    <div id="footer">
+      <h3>YOURS FAITHFULLY</h3>
+      <h3>SUBHASINI</h3>
+    </div>
+
+
+    
+</body>
+</html>
