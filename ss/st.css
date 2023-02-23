@@ -1,0 +1,14 @@
+#personal{
+    display: flex;
+    justify-content: space-between;
+}
+h1{
+    text-align: center;
+}
+#ss{
+    display: flex;
+    justify-content: space-between;
+}
+#footer{
+    text-align: end;
+}
